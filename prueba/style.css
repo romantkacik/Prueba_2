@@ -112,3 +112,12 @@ background-color: black;
 width: 50% ;
 height: 100% ;
 }
+@media screen and(max-widht: 1357px) {
+    .form-container{
+        width: 95%;
+}
+.form-container .login-container{
+    width: 400px;
+    margin: auto;
+}
+}
